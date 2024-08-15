@@ -1,0 +1,12 @@
+research-notebooks/
+│
+├── venv/
+├── notebooks/
+│   ├── data_analysis.ipynb
+│   └── model_training.ipynb
+├── models/
+│   └── my_model.h5
+├── datasets/
+│   └── sample_data.csv
+├── requirements.txt
+└── README.md
